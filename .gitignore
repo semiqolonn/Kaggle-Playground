@@ -1,5 +1,6 @@
 */ag_models/
 */__pycache__/
 */AutogluonModels/
-*submission.csv
+*/catboost_info/
 
+*submission.csv
